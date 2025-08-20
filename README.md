@@ -14,4 +14,5 @@ This repository contains structured learning resources for **Python Core Foundat
 
 ------
 
-![Folder Structure](2025-08-20 054808.png)
+![Folder Structure](2025-08-20-054808.png)
+
